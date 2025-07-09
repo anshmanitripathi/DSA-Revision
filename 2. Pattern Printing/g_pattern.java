@@ -20,5 +20,7 @@ public class g_pattern {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }
