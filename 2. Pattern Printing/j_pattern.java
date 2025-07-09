@@ -54,5 +54,7 @@ public class j_pattern {
 
             System.out.println();
         }
+
+        sc.close();
     }
 }

@@ -34,5 +34,7 @@ public class l_pattern {
 
             System.out.println();
         }
+
+        sc.close();
    }
 }

@@ -13,5 +13,6 @@ public class b_reverse_num {
         }
 
         System.out.println("Reversed number is : "+ rev);
+        sc.close();
     }
 }

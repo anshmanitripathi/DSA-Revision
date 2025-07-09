@@ -9,5 +9,6 @@ public class a_leap_year {
         boolean result = y%400 == 0 || y%4==0 && y%100!=0 ? true : false;
 
         System.out.println("Leap year : "+ result);
+        sc.close();
     }
 }

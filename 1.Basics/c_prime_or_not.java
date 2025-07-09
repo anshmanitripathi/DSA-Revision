@@ -18,6 +18,7 @@ public class c_prime_or_not {
         }else{
             System.out.println("Not a Prime");
         }
-
+        
+        sc.close();
     }
 }
